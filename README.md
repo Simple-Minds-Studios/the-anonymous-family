@@ -74,4 +74,10 @@ The artifact is intentionally versioned. Future editions may add aggregate maps,
 
 No raw private genealogy dataset is published in this repository, and no open-data license is granted for private family source material. Public historical records retain the rights and restrictions of their original sources.
 
-Simple Minds Studios · 2026
+## Companion family-history exhibition
+
+[**STILL HERE — A Tree of Memory**](https://simple-minds-studios.github.io/still-here/) is a companion Simple Minds Studios heritage study stewarded by **Bart Salazar**. It examines the Pawneshing–Seaman–Vargas and Salazar–Jones–Morgan family-history investigations, with separate evidence labels and a separate public/private publication boundary.
+
+The projects share a research ethic—not a presumed family connection. No relationship between the two family trees is asserted.
+
+Simple Minds Studios • 2026 • (https://simplemindsstudios.com/ethos/)
