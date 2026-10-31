@@ -26,3 +26,7 @@ Potential additions named in the exhibit include:
 - newly verified generations
 
 Any future addition remains subject to the public archive rules in [`PRIVACY.md`](PRIVACY.md).
+
+## Companion cross-reference — October 2026
+- Added a reciprocal link to Bart Salazar's separate family-history exhibition, STILL HERE.
+- No changes to the anonymous family's genealogical dataset, figures, evidence classes, or privacy rules.
